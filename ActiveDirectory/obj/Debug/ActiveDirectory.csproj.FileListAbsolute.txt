@@ -1,0 +1,4 @@
+\\gimli\folderredirectionusers\liamb\documents\visual studio 2015\Projects\ActiveDirectory\ActiveDirectory\bin\Debug\ActiveDirectory.dll
+\\gimli\folderredirectionusers\liamb\documents\visual studio 2015\Projects\ActiveDirectory\ActiveDirectory\bin\Debug\ActiveDirectory.pdb
+\\gimli\folderredirectionusers\liamb\documents\visual studio 2015\Projects\ActiveDirectory\ActiveDirectory\obj\Debug\ActiveDirectory.dll
+\\gimli\folderredirectionusers\liamb\documents\visual studio 2015\Projects\ActiveDirectory\ActiveDirectory\obj\Debug\ActiveDirectory.pdb
